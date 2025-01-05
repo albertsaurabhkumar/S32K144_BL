@@ -1,0 +1,798 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/adc/src/analogInp.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/can/src/can.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/clock/src/clock.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/flash/src/flash.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/gpio/src/gpio.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/interrupt/src/interrupt.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/port/src/port.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/spi/src/spi.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/startup/src/startup.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/wdog/src/wdog.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .group         0x00000000        0xc ../../10_Build/obj/main.o
+ .debug_macro   0x00000000      0xa5a ../../10_Build/obj/main.o
+ .debug_macro   0x00000000       0x19 ../../10_Build/obj/main.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/main.o
+ .debug_macro   0x00000000       0x8e ../../10_Build/obj/main.o
+ .debug_macro   0x00000000       0x51 ../../10_Build/obj/main.o
+ .debug_macro   0x00000000      0x103 ../../10_Build/obj/main.o
+ .debug_macro   0x00000000       0x6a ../../10_Build/obj/main.o
+ .debug_macro   0x00000000      0x1df ../../10_Build/obj/main.o
+ .debug_macro   0x00000000       0x22 ../../10_Build/obj/main.o
+ .debug_macro   0x00000000     0xdf8d ../../10_Build/obj/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+VECTAB           0x00000000         0x00000400         xr
+FLASH_CONFIG     0x00000400         0x00000410         xr
+FLASH            0x00000410         0x0000fbf0         xr
+SRAM1            0x1fff8000         0x00008000         xrw
+SRAM2            0x20000000         0x00007000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../../10_Build/obj/adc/src/analogInp.o
+LOAD ../../10_Build/obj/can/src/can.o
+LOAD ../../10_Build/obj/clock/src/clock.o
+LOAD ../../10_Build/obj/flash/src/flash.o
+LOAD ../../10_Build/obj/gpio/src/gpio.o
+LOAD ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+LOAD ../../10_Build/obj/hwExtDrv/src/uja1167.o
+LOAD ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+LOAD ../../10_Build/obj/interrupt/src/interrupt.o
+LOAD ../../10_Build/obj/port/src/port.o
+LOAD ../../10_Build/obj/spi/src/spi.o
+LOAD ../../10_Build/obj/startup/src/startup.o
+LOAD ../../10_Build/obj/wdog/src/wdog.o
+LOAD ../../10_Build/obj/main.o
+
+.intvec         0x00000000      0x400
+                0x00000000                _intvec_start_ = .
+ *(.intvec)
+ .intvec        0x00000000      0x400 ../../10_Build/obj/interrupt/src/interrupt.o
+                0x00000000                vectorTable
+                0x00000400                . = ALIGN (0x4)
+                0x00000400                _intvec_end_ = .
+
+.flashConfig    0x00000400       0x10
+ *(.flashConfig)
+ .flashConfig   0x00000400       0x10 ../../10_Build/obj/startup/src/startup.o
+                0x00000400                flashConfig
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410      0xad4
+                0x00000410                _stext = .
+ *(.text)
+ .text          0x00000410       0xec ../../10_Build/obj/adc/src/analogInp.o
+                0x00000410                ADC_Init
+                0x00000450                readADC
+                0x000004b4                GetAnalogVal
+ .text          0x000004fc        0xe ../../10_Build/obj/can/src/can.o
+                0x000004fc                CAN_Init
+ *fill*         0x0000050a        0x2 
+ .text          0x0000050c       0xe4 ../../10_Build/obj/clock/src/clock.o
+                0x0000050c                initClk
+                0x0000055c                CLK_Enable
+ .text          0x000005f0      0x1e0 ../../10_Build/obj/flash/src/flash.o
+                0x000005f0                CommandSequence
+                0x0000062c                Read1sBlock
+                0x00000648                Read1sSection
+                0x00000664                ProgramCheck
+                0x00000680                ProgramPhrase
+                0x0000069c                EraseFlashBlock
+                0x000006b8                EraseFlashSector
+                0x000006d4                ProgramSection
+                0x000006f0                Read1sAllBlocks
+                0x0000070c                ReadOnce
+                0x00000728                ProgramOnce
+                0x00000744                EraseAllBlocks
+                0x00000760                VerifyBackdoorAccessKey
+                0x0000077c                EraseAllBlocksUnsecure
+                0x00000798                ProgramPartition
+                0x000007b4                SetFlexRAM
+ .text          0x000007d0       0xc6 ../../10_Build/obj/gpio/src/gpio.o
+                0x000007d0                ToggleGPIO
+                0x000007f8                SetGPIO
+                0x00000820                ClearGPIO
+                0x00000848                DataDirectionGPIO
+                0x00000870                DataOutGPIO
+ *fill*         0x00000896        0x2 
+ .text          0x00000898      0x108 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+                0x00000898                hsd6500_TxRx
+                0x00000924                hsd6500_Init
+                0x00000964                hsd6500_GetID
+                0x00000982                hsd6500_GetStatus
+ .text          0x000009a0       0xc4 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+                0x000009a0                uja1167_GetID
+                0x000009d0                uja1167_GetStatus
+                0x00000a00                uja1167_GetMode
+                0x00000a30                uja1167_SetMode
+ .text          0x00000a64        0x0 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .text          0x00000a64       0x3c ../../10_Build/obj/interrupt/src/interrupt.o
+                0x00000a64                Reserved54_IRQHandler
+                0x00000a64                DMA1_IRQHandler
+                0x00000a64                Reserved88_IRQHandler
+                0x00000a64                CAN0_ORed_IRQHandler
+                0x00000a64                FLEXIO_IRQHandler
+                0x00000a64                Reserved86_IRQHandler
+                0x00000a64                Reserved103_IRQHandler
+                0x00000a64                FTM1_Ch0_Ch1_IRQHandler
+                0x00000a64                FTM2_Ovf_Reload_IRQHandler
+                0x00000a64                Reserved50_IRQHandler
+                0x00000a64                FTFC_Fault_IRQHandler
+                0x00000a64                FTM0_Ch6_Ch7_IRQHandler
+                0x00000a64                DMA6_IRQHandler
+                0x00000a64                Reserved114_IRQHandler
+                0x00000a64                PORTC_IRQHandler
+                0x00000a64                Reserved89_IRQHandler
+                0x00000a64                ERM_double_fault_IRQHandler
+                0x00000a64                DMA2_IRQHandler
+                0x00000a64                Reserved59_IRQHandler
+                0x00000a64                LPIT0_Ch0_IRQHandler
+                0x00000a64                Reserved99_IRQHandler
+                0x00000a64                FTM3_Ch6_Ch7_IRQHandler
+                0x00000a64                CAN2_ORed_0_15_MB_IRQHandler
+                0x00000a64                LPIT0_Ch3_IRQHandler
+                0x00000a64                Reserved92_IRQHandler
+                0x00000a64                FTM0_Ch4_Ch5_IRQHandler
+                0x00000a64                CAN1_Error_IRQHandler
+                0x00000a64                FTM3_Ch0_Ch1_IRQHandler
+                0x00000a64                SWI_IRQHandler
+                0x00000a64                ADC0_IRQHandler
+                0x00000a64                FTM2_Ch4_Ch5_IRQHandler
+                0x00000a64                Reserved52_IRQHandler
+                0x00000a64                FTM0_Ovf_Reload_IRQHandler
+                0x00000a64                DefaultISR
+                0x00000a64                DMA9_IRQHandler
+                0x00000a64                Reserved58_IRQHandler
+                0x00000a64                CAN1_ORed_0_15_MB_IRQHandler
+                0x00000a64                FTM1_Ch2_Ch3_IRQHandler
+                0x00000a64                DMA14_IRQHandler
+                0x00000a64                Reserved82_IRQHandler
+                0x00000a64                CAN0_ORed_16_31_MB_IRQHandler
+                0x00000a64                LPI2C0_Slave_IRQHandler
+                0x00000a64                Reserved71_IRQHandler
+                0x00000a64                PORTD_IRQHandler
+                0x00000a64                Reserved69_IRQHandler
+                0x00000a64                PORTB_IRQHandler
+                0x00000a64                Reserved70_IRQHandler
+                0x00000a64                ADC1_IRQHandler
+                0x00000a64                FTM2_Ch2_Ch3_IRQHandler
+                0x00000a64                DefaultHandler
+                0x00000a64                Reserved53_IRQHandler
+                0x00000a64                DMA5_IRQHandler
+                0x00000a64                RTC_IRQHandler
+                0x00000a64                PDB0_IRQHandler
+                0x00000a64                FTM2_Ch6_Ch7_IRQHandler
+                0x00000a64                FTM3_Ch2_Ch3_IRQHandler
+                0x00000a64                FTM2_Ch0_Ch1_IRQHandler
+                0x00000a64                LPSPI1_IRQHandler
+                0x00000a64                LPUART1_RxTx_IRQHandler
+                0x00000a64                RTC_Seconds_IRQHandler
+                0x00000a64                CAN2_ORed_IRQHandler
+                0x00000a64                Reserved72_IRQHandler
+                0x00000a64                Reserved110_IRQHandler
+                0x00000a64                DMA11_IRQHandler
+                0x00000a64                Reserved107_IRQHandler
+                0x00000a64                Read_Collision_IRQHandler
+                0x00000a64                CAN2_Error_IRQHandler
+                0x00000a64                FTFC_IRQHandler
+                0x00000a64                DMA7_IRQHandler
+                0x00000a64                FTM1_Ch6_Ch7_IRQHandler
+                0x00000a64                Reserved105_IRQHandler
+                0x00000a64                LPIT0_Ch1_IRQHandler
+                0x00000a64                FTM1_Ch4_Ch5_IRQHandler
+                0x00000a64                FTM3_Ovf_Reload_IRQHandler
+                0x00000a64                LPUART2_RxTx_IRQHandler
+                0x00000a64                LPSPI0_IRQHandler
+                0x00000a64                WDOG_EWM_IRQHandler
+                0x00000a64                CMP0_IRQHandler
+                0x00000a64                Reserved90_IRQHandler
+                0x00000a64                Reserved83_IRQHandler
+                0x00000a64                FTM0_Fault_IRQHandler
+                0x00000a64                Reserved48_IRQHandler
+                0x00000a64                CAN0_Wake_Up_IRQHandler
+                0x00000a64                ERM_single_fault_IRQHandler
+                0x00000a64                FTM2_Fault_IRQHandler
+                0x00000a64                FTM0_Ch2_Ch3_IRQHandler
+                0x00000a64                DMA13_IRQHandler
+                0x00000a64                FTM0_Ch0_Ch1_IRQHandler
+                0x00000a64                FTM3_Fault_IRQHandler
+                0x00000a64                RCM_IRQHandler
+                0x00000a64                DMA3_IRQHandler
+                0x00000a64                Reserved100_IRQHandler
+                0x00000a64                DMA0_IRQHandler
+                0x00000a64                Reserved91_IRQHandler
+                0x00000a64                CAN1_ORed_IRQHandler
+                0x00000a64                DMA15_IRQHandler
+                0x00000a64                SCG_IRQHandler
+                0x00000a64                PDB1_IRQHandler
+                0x00000a64                Reserved81_IRQHandler
+                0x00000a64                Reserved46_IRQHandler
+                0x00000a64                Reserved45_IRQHandler
+                0x00000a64                CAN0_Error_IRQHandler
+                0x00000a64                Reserved112_IRQHandler
+                0x00000a64                LPI2C0_Master_IRQHandler
+                0x00000a64                DMA4_IRQHandler
+                0x00000a64                FTM1_Fault_IRQHandler
+                0x00000a64                Reserved106_IRQHandler
+                0x00000a64                DMA_Error_IRQHandler
+                0x00000a64                LVD_LVW_IRQHandler
+                0x00000a64                LPIT0_Ch2_IRQHandler
+                0x00000a64                PORTA_IRQHandler
+                0x00000a64                MCM_IRQHandler
+                0x00000a64                LPSPI2_IRQHandler
+                0x00000a64                DMA12_IRQHandler
+                0x00000a64                FTM3_Ch4_Ch5_IRQHandler
+                0x00000a64                CAN0_ORed_0_15_MB_IRQHandler
+                0x00000a64                LPUART0_RxTx_IRQHandler
+                0x00000a64                PORTE_IRQHandler
+                0x00000a64                LPTMR0_IRQHandler
+                0x00000a64                DMA10_IRQHandler
+                0x00000a64                Reserved87_IRQHandler
+                0x00000a64                FTM1_Ovf_Reload_IRQHandler
+                0x00000a64                DMA8_IRQHandler
+                0x00000a64                Reserved93_IRQHandler
+                0x00000a64                Reserved113_IRQHandler
+                0x00000a6a                NMI_Handler
+                0x00000a70                HardFault_Handler
+                0x00000a76                MemManage_Handler
+                0x00000a7c                BusFault_Handler
+                0x00000a82                UsageFault_Handler
+                0x00000a88                SVC_Handler
+                0x00000a8e                DebugMon_Handler
+                0x00000a94                PendSV_Handler
+                0x00000a9a                SysTick_Handler
+ .text          0x00000aa0       0x90 ../../10_Build/obj/port/src/port.o
+                0x00000aa0                PortPCR
+                0x00000ac2                PORT_SpiPins
+ .text          0x00000b30      0x23c ../../10_Build/obj/spi/src/spi.o
+                0x00000b30                SPI_GetVersion
+                0x00000b64                SPI_GetFIFOSize
+                0x00000b90                SPI_FlushFIFOs
+                0x00000bac                SPI_GetStatus
+                0x00000bcc                SPI_Init
+                0x00000cbc                SPI_Reset
+                0x00000cd8                SPI_Disable
+                0x00000cf4                SPI_IsBusy
+                0x00000d14                SPI_TxRxHalfWord
+ .text          0x00000d6c       0x78 ../../10_Build/obj/startup/src/startup.o
+                0x00000d6c                Reset_Handler
+                0x00000d7a                initDataNbss
+ .text          0x00000de4       0x54 ../../10_Build/obj/wdog/src/wdog.o
+                0x00000de4                DisableWDOG
+                0x00000e10                RefreshWDOG
+                0x00000e2c                CongiWDOG
+ .text          0x00000e38       0x48 ../../10_Build/obj/main.o
+                0x00000e38                delay
+                0x00000e64                main
+ *(.text*)
+ *(.rodata)
+ .rodata        0x00000e80        0x2 ../../10_Build/obj/can/src/can.o
+                0x00000e80                canConfig
+ *fill*         0x00000e82        0x2 
+ .rodata        0x00000e84       0x60 ../../10_Build/obj/spi/src/spi.o
+                0x00000e84                spiConfig
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x00000ee4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000ee4        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00000ee4                . = ALIGN (0x4)
+                0x00000ee4                _etext = .
+
+.vfp11_veneer   0x00000ee4        0x0
+ .vfp11_veneer  0x00000ee4        0x0 linker stubs
+
+.v4_bx          0x00000ee4        0x0
+ .v4_bx         0x00000ee4        0x0 linker stubs
+
+.iplt           0x00000ee4        0x0
+ .iplt          0x00000ee4        0x0 ../../10_Build/obj/adc/src/analogInp.o
+
+.rel.dyn        0x00000ee4        0x0
+ .rel.iplt      0x00000ee4        0x0 ../../10_Build/obj/adc/src/analogInp.o
+
+.data           0x1fff8000        0x0 load address 0x00000ee4
+                0x1fff8000                _sdata_ram = .
+ *(.data)
+ .data          0x1fff8000        0x0 ../../10_Build/obj/adc/src/analogInp.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/can/src/can.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/clock/src/clock.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/flash/src/flash.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/gpio/src/gpio.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/interrupt/src/interrupt.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/port/src/port.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/spi/src/spi.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/startup/src/startup.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/wdog/src/wdog.o
+ .data          0x1fff8000        0x0 ../../10_Build/obj/main.o
+                0x1fff8000                . = ALIGN (0x4)
+                0x1fff8000                _edata_ram = .
+
+.igot.plt       0x1fff8000        0x0 load address 0x00000ee4
+ .igot.plt      0x1fff8000        0x0 ../../10_Build/obj/adc/src/analogInp.o
+
+.bss            0x1fff8000        0xc load address 0x00000ee4
+                0x1fff8000                _bss_start_ = .
+ *(.bss)
+ .bss           0x1fff8000        0x0 ../../10_Build/obj/adc/src/analogInp.o
+ .bss           0x1fff8000        0x0 ../../10_Build/obj/can/src/can.o
+ .bss           0x1fff8000        0x0 ../../10_Build/obj/clock/src/clock.o
+ .bss           0x1fff8000        0x0 ../../10_Build/obj/flash/src/flash.o
+ .bss           0x1fff8000        0x0 ../../10_Build/obj/gpio/src/gpio.o
+ .bss           0x1fff8000        0x1 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/interrupt/src/interrupt.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/port/src/port.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/spi/src/spi.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/startup/src/startup.o
+ .bss           0x1fff8001        0x0 ../../10_Build/obj/wdog/src/wdog.o
+ *fill*         0x1fff8001        0x3 
+ .bss           0x1fff8004        0x8 ../../10_Build/obj/main.o
+                0x1fff8004                dlyCnt
+                0x1fff8008                counter
+ *(.bss*)
+ *(.common)
+ *(.common*)
+                0x1fff800c                . = ALIGN (0x4)
+                0x1fff800c                _bss_end_ = .
+OUTPUT(../../10_build/bin/S32_BL.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x259f
+ .debug_info    0x00000000      0x3ef ../../10_Build/obj/adc/src/analogInp.o
+ .debug_info    0x000003ef      0x117 ../../10_Build/obj/can/src/can.o
+ .debug_info    0x00000506      0x304 ../../10_Build/obj/clock/src/clock.o
+ .debug_info    0x0000080a      0x2e8 ../../10_Build/obj/flash/src/flash.o
+ .debug_info    0x00000af2      0x2f7 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_info    0x00000de9      0x44f ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_info    0x00001238      0x3ce ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_info    0x00001606       0x68 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_info    0x0000166e      0x15e ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_info    0x000017cc      0x2de ../../10_Build/obj/port/src/port.o
+ .debug_info    0x00001aaa      0x64e ../../10_Build/obj/spi/src/spi.o
+ .debug_info    0x000020f8      0x160 ../../10_Build/obj/startup/src/startup.o
+ .debug_info    0x00002258      0x112 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_info    0x0000236a      0x235 ../../10_Build/obj/main.o
+
+.debug_abbrev   0x00000000      0xce9
+ .debug_abbrev  0x00000000      0x139 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_abbrev  0x00000139       0xc9 ../../10_Build/obj/can/src/can.o
+ .debug_abbrev  0x00000202      0x117 ../../10_Build/obj/clock/src/clock.o
+ .debug_abbrev  0x00000319       0xbb ../../10_Build/obj/flash/src/flash.o
+ .debug_abbrev  0x000003d4       0xf6 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_abbrev  0x000004ca      0x123 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_abbrev  0x000005ed      0x112 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_abbrev  0x000006ff       0x29 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_abbrev  0x00000728       0x7b ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_abbrev  0x000007a3       0xff ../../10_Build/obj/port/src/port.o
+ .debug_abbrev  0x000008a2      0x1fd ../../10_Build/obj/spi/src/spi.o
+ .debug_abbrev  0x00000a9f       0xc0 ../../10_Build/obj/startup/src/startup.o
+ .debug_abbrev  0x00000b5f       0x9b ../../10_Build/obj/wdog/src/wdog.o
+ .debug_abbrev  0x00000bfa       0xef ../../10_Build/obj/main.o
+
+.debug_aranges  0x00000000      0x1b8
+ .debug_aranges
+                0x00000000       0x20 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_aranges
+                0x00000020       0x20 ../../10_Build/obj/can/src/can.o
+ .debug_aranges
+                0x00000040       0x20 ../../10_Build/obj/clock/src/clock.o
+ .debug_aranges
+                0x00000060       0x20 ../../10_Build/obj/flash/src/flash.o
+ .debug_aranges
+                0x00000080       0x20 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_aranges
+                0x000000a0       0x20 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_aranges
+                0x000000c0       0x20 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_aranges
+                0x000000e0       0x18 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_aranges
+                0x000000f8       0x20 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_aranges
+                0x00000118       0x20 ../../10_Build/obj/port/src/port.o
+ .debug_aranges
+                0x00000138       0x20 ../../10_Build/obj/spi/src/spi.o
+ .debug_aranges
+                0x00000158       0x20 ../../10_Build/obj/startup/src/startup.o
+ .debug_aranges
+                0x00000178       0x20 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_aranges
+                0x00000198       0x20 ../../10_Build/obj/main.o
+
+.debug_macro    0x00000000     0xf787
+ .debug_macro   0x00000000       0xaa ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x000000aa      0xa5a ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000b04       0x19 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000b1d       0x22 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000b3f       0x8e ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000bcd       0x51 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000c1e      0x103 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000d21       0x6a ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000d8b      0x1df ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000f6a       0x22 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x00000f8c     0xdf8d ../../10_Build/obj/adc/src/analogInp.o
+ .debug_macro   0x0000ef19       0x9c ../../10_Build/obj/can/src/can.o
+ .debug_macro   0x0000efb5       0xa0 ../../10_Build/obj/clock/src/clock.o
+ .debug_macro   0x0000f055       0x96 ../../10_Build/obj/flash/src/flash.o
+ .debug_macro   0x0000f0eb       0x96 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_macro   0x0000f181       0xd0 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_macro   0x0000f251       0xd0 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_macro   0x0000f321       0x96 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_macro   0x0000f3b7       0x90 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_macro   0x0000f447       0xa0 ../../10_Build/obj/port/src/port.o
+ .debug_macro   0x0000f4e7       0xba ../../10_Build/obj/spi/src/spi.o
+ .debug_macro   0x0000f5a1       0x98 ../../10_Build/obj/startup/src/startup.o
+ .debug_macro   0x0000f639       0x96 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_macro   0x0000f6cf       0xb8 ../../10_Build/obj/main.o
+
+.debug_line     0x00000000     0x28eb
+ .debug_line    0x00000000      0x322 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_line    0x00000322      0x25a ../../10_Build/obj/can/src/can.o
+ .debug_line    0x0000057c      0x2ca ../../10_Build/obj/clock/src/clock.o
+ .debug_line    0x00000846      0x380 ../../10_Build/obj/flash/src/flash.o
+ .debug_line    0x00000bc6      0x2a4 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_line    0x00000e6a      0x34e ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_line    0x000011b8      0x340 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_line    0x000014f8      0x255 ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .debug_line    0x0000174d      0x2c7 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_line    0x00001a14      0x2c2 ../../10_Build/obj/port/src/port.o
+ .debug_line    0x00001cd6      0x3ce ../../10_Build/obj/spi/src/spi.o
+ .debug_line    0x000020a4      0x2e1 ../../10_Build/obj/startup/src/startup.o
+ .debug_line    0x00002385      0x27d ../../10_Build/obj/wdog/src/wdog.o
+ .debug_line    0x00002602      0x2e9 ../../10_Build/obj/main.o
+
+.debug_str      0x00000000    0x5e27a
+ .debug_str     0x00000000    0x5d84e ../../10_Build/obj/adc/src/analogInp.o
+                              0x5d9bb (size before relaxing)
+ .debug_str     0x0005d84e       0x5d ../../10_Build/obj/can/src/can.o
+                              0x5d885 (size before relaxing)
+ .debug_str     0x0005d8ab      0x120 ../../10_Build/obj/clock/src/clock.o
+                              0x5d95f (size before relaxing)
+ .debug_str     0x0005d9cb      0x16f ../../10_Build/obj/flash/src/flash.o
+                              0x5d9a4 (size before relaxing)
+ .debug_str     0x0005db3a      0x140 ../../10_Build/obj/gpio/src/gpio.o
+                              0x5d972 (size before relaxing)
+ .debug_str     0x0005dc7a       0xd3 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+                              0x5da4c (size before relaxing)
+ .debug_str     0x0005dd4d      0x168 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+                              0x5da47 (size before relaxing)
+ .debug_str     0x0005deb5       0x2f ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+                              0x5d831 (size before relaxing)
+ .debug_str     0x0005dee4       0xd2 ../../10_Build/obj/interrupt/src/interrupt.o
+                              0x5d8e8 (size before relaxing)
+ .debug_str     0x0005dfb6       0x65 ../../10_Build/obj/port/src/port.o
+                              0x5d994 (size before relaxing)
+ .debug_str     0x0005e01b      0x125 ../../10_Build/obj/spi/src/spi.o
+                              0x5db15 (size before relaxing)
+ .debug_str     0x0005e140       0xb0 ../../10_Build/obj/startup/src/startup.o
+                              0x5d8c6 (size before relaxing)
+ .debug_str     0x0005e1f0       0x57 ../../10_Build/obj/wdog/src/wdog.o
+                              0x5d86d (size before relaxing)
+ .debug_str     0x0005e247       0x33 ../../10_Build/obj/main.o
+                              0x5d94d (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ../../10_Build/obj/adc/src/analogInp.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ../../10_Build/obj/can/src/can.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/clock/src/clock.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/flash/src/flash.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/gpio/src/gpio.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/interrupt/src/interrupt.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/port/src/port.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/spi/src/spi.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/startup/src/startup.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/wdog/src/wdog.o
+ .comment       0x00000049       0x4a ../../10_Build/obj/main.o
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x2e ../../10_Build/obj/adc/src/analogInp.o
+ .ARM.attributes
+                0x0000002e       0x2e ../../10_Build/obj/can/src/can.o
+ .ARM.attributes
+                0x0000005c       0x2e ../../10_Build/obj/clock/src/clock.o
+ .ARM.attributes
+                0x0000008a       0x2e ../../10_Build/obj/flash/src/flash.o
+ .ARM.attributes
+                0x000000b8       0x2e ../../10_Build/obj/gpio/src/gpio.o
+ .ARM.attributes
+                0x000000e6       0x2e ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .ARM.attributes
+                0x00000114       0x2e ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .ARM.attributes
+                0x00000142       0x2e ../../10_Build/obj/hwExtDrv/src/vnh7040.o
+ .ARM.attributes
+                0x00000170       0x2e ../../10_Build/obj/interrupt/src/interrupt.o
+ .ARM.attributes
+                0x0000019e       0x2e ../../10_Build/obj/port/src/port.o
+ .ARM.attributes
+                0x000001cc       0x2e ../../10_Build/obj/spi/src/spi.o
+ .ARM.attributes
+                0x000001fa       0x2e ../../10_Build/obj/startup/src/startup.o
+ .ARM.attributes
+                0x00000228       0x2e ../../10_Build/obj/wdog/src/wdog.o
+ .ARM.attributes
+                0x00000256       0x2e ../../10_Build/obj/main.o
+
+.debug_frame    0x00000000      0x8ec
+ .debug_frame   0x00000000       0x78 ../../10_Build/obj/adc/src/analogInp.o
+ .debug_frame   0x00000078       0x30 ../../10_Build/obj/can/src/can.o
+ .debug_frame   0x000000a8       0x58 ../../10_Build/obj/clock/src/clock.o
+ .debug_frame   0x00000100      0x20c ../../10_Build/obj/flash/src/flash.o
+ .debug_frame   0x0000030c       0xd8 ../../10_Build/obj/gpio/src/gpio.o
+ .debug_frame   0x000003e4       0xa0 ../../10_Build/obj/hwExtDrv/src/hsd6500.o
+ .debug_frame   0x00000484       0xa0 ../../10_Build/obj/hwExtDrv/src/uja1167.o
+ .debug_frame   0x00000524      0x100 ../../10_Build/obj/interrupt/src/interrupt.o
+ .debug_frame   0x00000624       0x60 ../../10_Build/obj/port/src/port.o
+ .debug_frame   0x00000684      0x150 ../../10_Build/obj/spi/src/spi.o
+ .debug_frame   0x000007d4       0x54 ../../10_Build/obj/startup/src/startup.o
+ .debug_frame   0x00000828       0x70 ../../10_Build/obj/wdog/src/wdog.o
+ .debug_frame   0x00000898       0x54 ../../10_Build/obj/main.o

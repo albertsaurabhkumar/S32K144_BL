@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./10_Build/bin/S32_App.elf",
+            "name": "JDebug_App",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device": "S32K144",
+            "interface": "jtag",
+            "runToEntryPoint": "Reset_Handler",
+            "showDevDebugOutput": "none",
+            "servertype": "jlink",
+            "svdFile": "${workspaceFolder}/40_/S32K144.svd",
+            "svdPath": "${workspaceFolder}/40_Tools/"
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./10_Build/bin/S32_BL.elf",
+            "name": "JDebug_BL",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device": "S32K144",
+            "interface": "swd",
+            "runToEntryPoint": "Reset_Handler",
+            "showDevDebugOutput": "none",
+            "servertype": "stlink",
+            "svdFile": "${workspaceFolder}/40_Tools/S32K144.svd",
+            "svdPath": "${workspaceFolder}/40_Tools/"
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./10_Build/bin/S32_BL.elf",
+            "name": "ST-Debug_BL",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device": "S32K144",
+            "interface": "swd",
+            "runToEntryPoint": "Reset_Handler",
+            "showDevDebugOutput": "none",
+            "servertype": "openocd",
+            "configFiles": [
+                "${workspaceFolder}/40_Tools/40_Openocd/openocd/scripts/interface/stlink.cfg",
+                "${workspaceFolder}/40_Tools/40_Openocd/openocd/scripts/target/s32k.cfg"
+            ],
+            "svdFile": "${workspaceFolder}/40_Tools/30_Make/S32K144.svd"
+        }
+    ]
+}

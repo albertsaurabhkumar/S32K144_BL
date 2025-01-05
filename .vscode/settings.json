@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "spi.h": "c",
+        "clock.h": "c",
+        "port.h": "c",
+        "main.h": "c",
+        "gpio.h": "c",
+        "coroutine": "c",
+        "uja1167.h": "c",
+        "hsd6500.h": "c",
+        "analoginp.h": "c",
+        "can.h": "c"
+    },
+    "cortex-debug.liveWatchRefreshRate": 250,
+    "cortex-debug.armToolchainPath": "${workspaceFolder}/40_Tools/20_Compiler/gcc-10.3/bin",
+    "cortex-debug.armToolchainPath.windows": "${workspaceFolder}/40_Tools/20_Compiler/gcc-10.3/bin",
+    "cortex-debug.variableUseNaturalFormat": true,
+    "cortex-debug.openocdPath.windows": "${workspaceFolder}/40_Tools/40_Openocd/bin/openocd.exe",
+    "cortex-debug.stlinkPath.windows": "C:/Program Files (x86)/STMicroelectronics/stlink_server",
+    "cortex-debug.stutilPath.windows": "${workspaceFolder}/40_Tools/stlink/bin/st-trace.exe",
+    "cortex-debug.JLinkGDBServerPath.windows": "C:/Program Files/SEGGER/JLink_V796i/JLinkGDBServerCL.exe",
+    "mcu-debug.peripheral-viewer.svdPathConfig": "default"
+}
